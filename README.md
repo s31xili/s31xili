@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s31xili
 - 👀 I’m interested in HPC topic.
-- 💞️ I’m looking to collaborate on power system dynamic simulation on GPU.
+- 💞️ I developed auto layout diagram tool which supports PSSE data and BPA data.
 - 📫 Please reach me by liangxiaopeng@msn.com
 
 <!---
